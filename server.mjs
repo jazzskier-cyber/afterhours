@@ -1,0 +1,4 @@
+import http from 'node:http';
+import {readFile} from 'node:fs/promises';
+const files=['index.html','style.css','game.js','engine.js','music.js','tracks.js','leaderboard.js','leaderboard-config.js','rankings.js','totals.js'];
+http.createServer(async(req,res)=>{const name=new URL(req.url,'http://localhost').pathname.slice(1)||'index.html';if(!files.includes(name)&&!/^audio\/[a-z0-9-]+\.mp3$/.test(name)){res.writeHead(404);res.end();return;}try{const data=await readFile(new URL(name,import.meta.url));res.writeHead(200,{'Content-Type':name.endsWith('.mp3')?'audio/mpeg':name.endsWith('.js')?'text/javascript':name.endsWith('.css')?'text/css':'text/html','Cache-Control':'no-cache'});res.end(data);}catch{res.writeHead(500);res.end();}}).listen(Number(process.env.PORT||5180),'127.0.0.1',()=>console.log('AFTERHOURS → http://127.0.0.1:'+(process.env.PORT||5180)));

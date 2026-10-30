@@ -1,0 +1,142 @@
+[
+  {
+    "id": "sunroom",
+    "bpm": 108,
+    "seconds": 54.833333333333336,
+    "inputLufs": -19.87,
+    "kicks": 77
+  },
+  {
+    "id": "peach-soda",
+    "bpm": 116,
+    "seconds": 51.15517241379311,
+    "inputLufs": -18.06,
+    "kicks": 77
+  },
+  {
+    "id": "paper-planes",
+    "bpm": 104,
+    "seconds": 56.88461538461538,
+    "inputLufs": -19.72,
+    "kicks": 77
+  },
+  {
+    "id": "golden-hour",
+    "bpm": 100,
+    "seconds": 59.099999999999994,
+    "inputLufs": -21.79,
+    "kicks": 77
+  },
+  {
+    "id": "daydream",
+    "bpm": 96,
+    "seconds": 61.5,
+    "inputLufs": -19.47,
+    "kicks": 77
+  },
+  {
+    "id": "coastline",
+    "bpm": 112,
+    "seconds": 52.92857142857143,
+    "inputLufs": -21.56,
+    "kicks": 54
+  },
+  {
+    "id": "lemon-grove",
+    "bpm": 106,
+    "seconds": 55.839622641509436,
+    "inputLufs": -19.05,
+    "kicks": 54
+  },
+  {
+    "id": "sunday-bike",
+    "bpm": 118,
+    "seconds": 50.313559322033896,
+    "inputLufs": -20.48,
+    "kicks": 54
+  },
+  {
+    "id": "sea-glass",
+    "bpm": 102,
+    "seconds": 57.970588235294116,
+    "inputLufs": -20.36,
+    "kicks": 54
+  },
+  {
+    "id": "postcard",
+    "bpm": 110,
+    "seconds": 53.86363636363636,
+    "inputLufs": -21.8,
+    "kicks": 54
+  },
+  {
+    "id": "roller-skates",
+    "bpm": 122,
+    "seconds": 48.713114754098356,
+    "inputLufs": -19.51,
+    "kicks": 81
+  },
+  {
+    "id": "confetti",
+    "bpm": 128,
+    "seconds": 46.5,
+    "inputLufs": -20.48,
+    "kicks": 81
+  },
+  {
+    "id": "poolside",
+    "bpm": 120,
+    "seconds": 49.5,
+    "inputLufs": -19.59,
+    "kicks": 81
+  },
+  {
+    "id": "carousel",
+    "bpm": 126,
+    "seconds": 47.21428571428571,
+    "inputLufs": -18.89,
+    "kicks": 81
+  },
+  {
+    "id": "pink-sky",
+    "bpm": 124,
+    "seconds": 47.95161290322581,
+    "inputLufs": -18.76,
+    "kicks": 81
+  },
+  {
+    "id": "cloud-nine",
+    "bpm": 98,
+    "seconds": 60.275510204081634,
+    "inputLufs": -17.64,
+    "kicks": 63
+  },
+  {
+    "id": "lavender",
+    "bpm": 92,
+    "seconds": 64.1086956521739,
+    "inputLufs": -18.67,
+    "kicks": 63
+  },
+  {
+    "id": "moon-picnic",
+    "bpm": 102,
+    "seconds": 57.970588235294116,
+    "inputLufs": -15.44,
+    "kicks": 63
+  },
+  {
+    "id": "soft-focus",
+    "bpm": 94,
+    "seconds": 62.776595744680854,
+    "inputLufs": -17.52,
+    "kicks": 63
+  },
+  {
+    "id": "bluebird",
+    "bpm": 114,
+    "seconds": 52.026315789473685,
+    "inputLufs": -17.62,
+    "kicks": 63
+  }
+]
